@@ -1,0 +1,14 @@
+{
+  "name": "pie-baker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/pie.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
